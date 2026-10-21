@@ -6,7 +6,7 @@ El código está estructurado en dos fases: desarrollo predictivo y monitoreo co
 
 ---
 
-## Estructura del Proyecto
+## Estructura del Repositorio
 
 ```text
 ├── 01_credit_scoring_ml/
